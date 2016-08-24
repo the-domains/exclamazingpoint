@@ -13,26 +13,26 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.9016825051512569
+  saturation: 0.9016825
   brandStrength: 0.5884601366706192
-  rhythmicContrast: 0.5219396501779556
+  lightness: 0.942691
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  lightness: 0.9426909738685936
-cta:
-  bucket: null
-  version: null
-  domain: null
+  rhythmicContrast: 0.7844611
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: ExclamazingPoint
+favicon: null
 opengraph:
   image: null
   type: null
