@@ -1,29 +1,41 @@
-typography_spectrum: 0.36160552594810724
+title: ExclamazingPoint
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9016825051512569
+  brandStrength: 0.5884601366706192
+  rhythmicContrast: 0.5219396501779556
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5884601366706192
   lightness: 0.9426909738685936
-  saturation: 0.9016825051512569
-  rhythmicContrast: 0.5219396501779556
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: ExclamazingPoint
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.074605627451092
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: ExclamazingPoint
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: ExclamazingPoint
-purpose: []
+typography_spectrum: 0.3616055259481072
+layout_spectrum: 0.9404762
