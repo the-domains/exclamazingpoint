@@ -1,5 +1,33 @@
-title: ExclamazingPoint
-purpose: []
+typography_spectrum: 0.3616055259481072
+color:
+  saturation: 0.9016825
+  brandStrength: 0.5884601366706192
+  lightness: 0.942691
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  rhythmicContrast: 0.7844611
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9404762
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Ian N. Francisco
+  email: ianfrancisco@gmail.com
+name: ExclamazingPoint
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +40,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.9016825
-  brandStrength: 0.5884601366706192
-  lightness: 0.942691
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  rhythmicContrast: 0.7844611
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: ExclamazingPoint
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3616055259481072
-layout_spectrum: 0.9404762
+title: ExclamazingPoint
+purpose: []
